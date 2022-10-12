@@ -3,10 +3,10 @@
 ### Description:
 
 Description
-A01 Has the following objectives
-accessing and registering to slack channel: https://griffin-courses.slack.com
-Registering to to the class roster
-Add image or avatar 
+- A01 Has the following objectives
+- accessing and registering to slack channel: https://griffin-courses.slack.com
+- Registering to to the class roster
+- Add image or avatar 
 
 ### Files
 
