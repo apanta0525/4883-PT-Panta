@@ -12,7 +12,6 @@ Description : Hashmat the Brave Warrior
 |   #   | File                       | Description                                                |
 | :---: | -------------------------- | ---------------------------------------------------------- |
 |   1   | [README.md](./README.md)   | assignment description                                     |
-| :---: | -------------------------- | ---------------------------------------------------------- |
 |   2   | [Main.cpp](./main.cpp)     | Brave Warrior Solution                                     |
 
 
