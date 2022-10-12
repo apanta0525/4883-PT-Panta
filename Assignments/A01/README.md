@@ -1,4 +1,4 @@
-## 4883 - Assignment Description
+## 4883 - Establishing Comms
 ### Aashish Panta
 ### Description:
 
