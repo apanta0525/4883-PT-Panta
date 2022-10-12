@@ -1,7 +1,7 @@
 /**
-* Name
-* Course
-* Date
+* Aashish Panta
+* 4883
+* 10 / 12 /2022
 */
 #include <iostream>
 
@@ -15,6 +15,12 @@ int main() {
     while (cin >> A >> B) {
         
         // your stuff here
+        int result = A - B;
+        if(result < 0){
+            
+            result *= -1;
+        }
+        std::cout<<result<<endl;
 
     }
     return 0;
