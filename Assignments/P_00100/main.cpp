@@ -65,5 +65,13 @@ int main() {
     print(201,210);
     print(900,1000);
     
+    cout<<"Enter Other Tests!!"<<endl;
+    
+    int start, end;
+    while(cin >> start>> end){
+        print(start, end);
+    }
+    
     return 0;
+   
 }
